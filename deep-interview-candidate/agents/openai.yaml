@@ -1,0 +1,4 @@
+interface:
+  display_name: "深度访谈求职者"
+  short_description: "首次使用时收集资料、深挖经历并建立事实库和简历母版"
+  default_prompt: "Use $deep-interview-candidate to interview me, build my fact base, and draft my master resume."
